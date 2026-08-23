@@ -6,19 +6,27 @@
 
 **Applied research and systems that connect ideas to action.**
 
-Sidiora Labs researches and builds the memory, coordination, and exchange layers<br/>that make autonomous systems reliable, auditable, and economically complete.
+Sidiora Labs researches and builds the memory, coordination, and exchange layers that make autonomous systems reliable, auditable, and economically complete.
 
 <br/>
 
-<img src="https://paxlab.app/__l5e/assets-v1/035185d1-879c-4c69-a93d-ccdcf33009ab/Mechanical_Bloom_Workshop.png" />
+## Key Projects
+
+🤖 **[Centra AI](https://github.com/Sidiora-Labs/centra-llm-agents)** — Multi-agent orchestration framework for LLM-powered systems  
+🧬 **[Machine Genome](https://github.com/Sidiora-Labs/machine-genome)** — Distributed knowledge graphs and semantic reasoning  
+🔗 **[LayerX Protocol](https://github.com/Sidiora-Labs/LayerX-Protocol)** — Cross-chain coordination and exchange infrastructure  
 
 <br/>
 
-</div>
+**Learn More:** [sidioralabs.com](https://sidioralabs.com) · [centra.ag](https://centra.ag)
+
+<br/>
 
 ---
 
-<div align="center">
+<sub>Some projects have transferred from earlier brands (PaxLabs) and now live under Sidiora Labs.</sub>
+
+<br/>
 
 <sub>© 2026 Sidiora Labs Inc.</sub>
 
